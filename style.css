@@ -66,3 +66,27 @@
     cursor: pointer;
     transition: .3s;
 }
+.section-one{
+    /* text-align: center; */
+}
+.section-one h2{
+    text-align: center;
+    color: #1D1D1D;
+    font-size: 32px;
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+.section{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.section .right-section{
+    width: 45%;
+}
+.section .left-section{
+    width: 45%;
+}
+.left-section p{
+    color: #1D1D1D;;
+}
